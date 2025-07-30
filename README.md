@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chuai Mateng
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jack B
 ====================================================================================================================================
 
 Student
@@ -7,7 +7,7 @@ Student
 I've been learning React.js for 6 years
 
 * 🌍  I'm based in Hatyai, Thailand
-* ✉️  You can contact me at [6310210659code@gmail.com](mailto:6310210659code@gmail.com)
+* ✉️  You can contact me at [Jibchain_JBC)
 
 <a href="https://www.twitter.com/MaXayb" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/MaXayb?logo=twitter&style=for-the-badge&color=ec4899&labelColor=1c1917"
